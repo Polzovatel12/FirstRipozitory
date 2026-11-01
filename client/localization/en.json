@@ -1,6 +1,6 @@
 {
-  "mode.name": "TDM (Team Deathmatch)",
-  "mode.description": "Confrontation of two teams",
+  "mode.name": "Endless TDM (Team Deathmatch)",
+  "mode.description": "Endless confrontation of two teams",
 
   "maplist.allmaps": "All Maps",
   "maplist.interesting": "Interesting maps",
