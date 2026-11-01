@@ -9,10 +9,10 @@ const PARAMETER_GAME_LENGTH = 'GameLength';
 export function game_mode_length_seconds() {
     const length = GameMode.Parameters.GetString(PARAMETER_GAME_LENGTH);
     switch (length) {
-        case 'Length_S': return 210; // 3:30
-        case 'Length_M': return 270; // 4:30
-        case 'Length_L': return 330; // 5:30
-        case 'Length_XL': return 390; // 6:30
+        case 'Length_S': return Infinity;
+        case 'Length_M': return Infinity;
+        case 'Length_L': return Infinity;
+        case 'Length_XL': return Infinity;
     }
-    return 270;
+    return Infinity;
 }
