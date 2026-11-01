@@ -21,10 +21,10 @@ const VoteTime = 10;
 
 // время основной битвы по размерам карт (согласно ТЗ)
 const GAME_MODE_TIMES = {
-	'S': 210,  // 3:30
-	'M': 270,  // 4:30
-	'L': 330,  // 5:30
-	'XL': 390  // 6:30
+	'S': Infinity,
+	'M': Infinity,
+	'L': Infinity,
+	'XL': Infinity
 };
 
 // очки
