@@ -1,6 +1,6 @@
 {
-  "mode.name": "TDM (Командный бой)",
-  "mode.description": "Противостояние двух команд",
+  "mode.name": "Endless TDM (Командный бой)",
+  "mode.description": "Бесконечное противостояние двух команд",
 
   "maplist.allmaps": "Все карты",
   "maplist.interesting": "Интересные карты",
