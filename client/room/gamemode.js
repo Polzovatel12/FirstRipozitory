@@ -232,7 +232,7 @@ function SetGameMode() {
 	}
 
 	// проверка на бесконечные патроны
-	if (GameMode.Parameters.GetBool("OnlyKnives")) {
+	if (GameMode.Parameters.GetBool("InfinityAmmo")) {
 		inventory.MainInfinity.Value = true;
 		inventory.SecondaryInfinity.Value = true;
 		inventory.ExplosiveInfinity.Value = true;
