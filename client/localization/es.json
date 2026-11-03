@@ -5,7 +5,7 @@
   "maplist.allmaps": "Todos los mapas",
   "maplist.interesting": "Mapas interesantes",
 
-  "params.MapRotation": "Rotación de mapas",
+  "params.InfinityAmmo": "Munición infinita",
   "params.OnlyKnives": "Solo cuchillos",
   "params.OnlyPlayerBlocksDmg": "Daño solo a bloques de jugadores",
   "params.LoosenBlocks": "Aflojar bloques",
