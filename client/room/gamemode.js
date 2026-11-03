@@ -231,6 +231,13 @@ function SetGameMode() {
 		inventory.Build.Value = true;
 	}
 
+	// проверка на бесконечные патроны
+	if (GameMode.Parameters.GetBool("OnlyKnives")) {
+		inventory.MainInfinity.Value = true;
+		inventory.SecondaryInfinity.Value = true;
+		inventory.ExplosiveInfinity.Value = true;
+	}
+	
 	// получаем время основной битвы по размеру карты
 	const gameLength = GameMode.Parameters.GetString('GameLength');
 	const gameTime = GAME_MODE_TIMES[gameLength] || GAME_MODE_TIMES['M'];
