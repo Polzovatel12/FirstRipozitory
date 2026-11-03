@@ -5,7 +5,7 @@
   "maplist.allmaps": "All Maps",
   "maplist.interesting": "Interesting maps",
 
-  "params.MapRotation": "Map rotation",
+  "params.InfinityAmmo": "Infinity Ammo",
   "params.OnlyKnives": "Only knives",
   "params.OnlyPlayerBlocksDmg": "Damage only to player blocks",
   "params.LoosenBlocks": "Loosen blocks",
