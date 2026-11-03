@@ -5,7 +5,7 @@
   "maplist.allmaps": "Все карты",
   "maplist.interesting": "Интересные карты",
 
-  "params.MapRotation": "Ротация карт",
+  "params.InfinityAmmo": "Бесконечные патроны",
   "params.OnlyKnives": "Только ножи",
   "params.OnlyPlayerBlocksDmg": "Урон только по блокам игроков",
   "params.LoosenBlocks": "Ослабить блоки",
