@@ -55,8 +55,8 @@
   "Parameters": {
     "Bool": [
       {
-        "Name": "MapRotation",
-        "DisplayName": "params.MapRotation",
+        "Name": "InfinityAmmo",
+        "DisplayName": "params.InfinityAmmo",
         "Default": true,
         "Order": 1
       },
