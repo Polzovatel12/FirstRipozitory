@@ -6,6 +6,7 @@
   "maplist.interesting": "Интересные карты",
 
   "params.InfinityAmmo": "Бесконечные патроны",
+  "params.InfinityBlocks": "Бесконечные блоки",
   "params.OnlyKnives": "Только ножи",
   "params.OnlyPlayerBlocksDmg": "Урон только по блокам игроков",
   "params.LoosenBlocks": "Ослабить блоки",
