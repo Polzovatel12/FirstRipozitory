@@ -6,6 +6,7 @@
   "maplist.interesting": "Mapas interesantes",
 
   "params.InfinityAmmo": "Munición infinita",
+  "params.InfinityBlocks": "Bloques infinitos",
   "params.OnlyKnives": "Solo cuchillos",
   "params.OnlyPlayerBlocksDmg": "Daño solo a bloques de jugadores",
   "params.LoosenBlocks": "Aflojar bloques",
