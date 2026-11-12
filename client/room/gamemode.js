@@ -237,6 +237,11 @@ function SetGameMode() {
 		inventory.SecondaryInfinity.Value = true;
 		inventory.ExplosiveInfinity.Value = true;
 	}
+
+	// проверка на бесконечные блоки
+	if (GameMode.Parameters.GetBool("InfinityBlocks")) {
+		inventory.BuildInfinity.Value = true;
+	}
 	
 	// получаем время основной битвы по размеру карты
 	const gameLength = GameMode.Parameters.GetString('GameLength');
