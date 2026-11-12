@@ -57,28 +57,32 @@
       {
         "Name": "InfinityAmmo",
         "DisplayName": "params.InfinityAmmo",
-        "Default": true,
         "Order": 1
+      },
+      {
+        "Name": "InfinityBlocks",
+        "DisplayName": "params.InfinityBlocks",
+        "Order": 2
       },
       {
         "Name": "OnlyKnives",
         "DisplayName": "params.OnlyKnives",
-        "Order": 2
+        "Order": 3
       },
       {
         "Name": "OnlyPlayerBlocksDmg",
         "DisplayName": "params.OnlyPlayerBlocksDmg",
-        "Order": 3
+        "Order": 4
       },
       {
         "Name": "LoosenBlocks",
         "DisplayName": "params.LoosenBlocks",
-        "Order": 4
+        "Order": 5
       },
       {
         "Name": "FriendlyFire",
         "DisplayName": "params.FriendlyFire",
-        "Order": 5
+        "Order": 6
       }
     ]
   }
