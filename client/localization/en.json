@@ -6,6 +6,7 @@
   "maplist.interesting": "Interesting maps",
 
   "params.InfinityAmmo": "Infinity Ammo",
+  "params.InfinityBlocks": "Infinity Blocks",
   "params.OnlyKnives": "Only knives",
   "params.OnlyPlayerBlocksDmg": "Damage only to player blocks",
   "params.LoosenBlocks": "Loosen blocks",
