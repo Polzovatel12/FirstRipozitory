@@ -206,6 +206,11 @@ function SetTacticalPreparation() {
 	Damage.GetContext().DamageOut.Value = true;
 	Spawns.GetContext().RespawnTime.Value = 2;
 
+	// проверка на бесконечные блоки
+	if (GameMode.Parameters.GetBool("InfinityBlocks")) {
+		inventory.BuildInfinity.Value = true;
+	}
+
 	mainTimer.Restart(TacticalPreparationTime);
 	Spawns.GetContext().enable = true;
 	SpawnTeams();
